@@ -12,7 +12,7 @@ This is a simple React project that serves as a single-page application for conv
 - **React:** Built using React for a dynamic and responsive user interface.
 - **Single Page Application (SPA):** Provides a seamless and smooth user experience without page reloads.
 
-  ##Screenshots
+ ## Screenshots
 
   ![Screenshot (1)](https://github.com/shreyansh2024it/LetterCase_ReactApp/assets/93786597/64745f50-6337-4b61-9ede-10bcc4b327fc)
   
