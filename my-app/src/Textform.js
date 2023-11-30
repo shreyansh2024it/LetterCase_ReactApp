@@ -31,7 +31,7 @@ const Textform = () => {
     </div>
 <div className="container">
     <h3>Your Text Summary</h3>
-    <p>{text.length} characters, {text.split(" ").length} words</p>
+    <p>{text.length} characters, {text.split(" ").length} no of words</p>
     <p>Time require to read the word:{0.008*text.split(" ").length} Minutes</p>
 </div>
     </>
