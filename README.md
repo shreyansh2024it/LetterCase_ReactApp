@@ -2,13 +2,13 @@
 # React Letter Case Converter
 
 
-This is a simple React project that serves as a single-page application for converting letters into uppercase and lowercase.
+This is a simple React project that serves as a single-page application for converting letters into UPPERCASE, lowercase, Capitalize Word, aLtErNaTe CaSe, tOGGLE cASE.
 
 
 
 ## Features
 
-- **Letter Case Conversion:** Easily convert text to uppercase or lowercase.
+- **Letter Case Conversion:** Easily convert text to UPPERCASE, lowercase, Capitalize Word, aLtErNaTe CaSe, tOGGLE cASE.
 - **React:** Built using React for a dynamic and responsive user interface.
 - **Single Page Application (SPA):** Provides a seamless and smooth user experience without page reloads.
 
@@ -50,7 +50,7 @@ This is a simple React project that serves as a single-page application for conv
 ## Usage
 
        1. Enter the text you want to convert in the input field.
-       2. Use the provided buttons to convert the text to uppercase or lowercase.
+       2. Use the provided buttons to convert the text to UPPERCASE, lowercase, Capitalize Word, aLtErNaTe CaSe, tOGGLE cASE.
 
 
 ## Acknowledgements
