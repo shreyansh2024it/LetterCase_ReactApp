@@ -14,7 +14,8 @@ This is a simple React project that serves as a single-page application for conv
 
  ## Screenshots
 
-  ![Screenshot (1)](https://github.com/shreyansh2024it/LetterCase_ReactApp/assets/93786597/64745f50-6337-4b61-9ede-10bcc4b327fc)
+  ![Screenshot (4)](https://github.com/shreyansh2024it/LetterCase_ReactApp/assets/93786597/85ea4901-50fd-4a43-bf36-e3c9d382da02)
+
   
   ![Screenshot (2)](https://github.com/shreyansh2024it/LetterCase_ReactApp/assets/93786597/e2082c3c-1f71-4c84-b48f-b3e70970ed85)
 
